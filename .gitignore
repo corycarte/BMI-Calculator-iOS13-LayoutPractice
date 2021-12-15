@@ -88,3 +88,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.[Dd][Ss]_[Ss][Tt][Oo][Rr][Ee]
